@@ -1,0 +1,6 @@
+This program implements the algorythm of avl which is a self balancing tree.
+
+This program performs the insertion and display operation.
+when ever we insert node into tree we check its left and right sub tree heights if it is less than or equal to 1 then tree is balanced or else we have to balance it by using rotation operations.
+
+To get the executable execute the make command.

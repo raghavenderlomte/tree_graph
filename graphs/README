@@ -1,0 +1,9 @@
+This program performs the operation of graph
+it actually maintains the grapth based on edge list
+
+For this program,we are using three function "index_link(int,int)" which takes the source and destination index as arguments and performs the linking operation 
+
+"void display(int,int)"performs the operation of linking the given nodes
+"void sort_ascending(int)"is used to arrange all the edges in ascending order based on source index value
+
+to get the executable file,run the make command.

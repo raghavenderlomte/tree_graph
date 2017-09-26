@@ -1,0 +1,7 @@
+This program implements the kruskal's algorythm which is used to get the minimun spanning tree of a given tree.
+here we are storing the nodes in an array,i'm considering the indexes of those as nodes and by using the function "index_link(int,int)".
+We send the source and destination nodes to form an edge
+
+"display(int,int)" function is used to display all the avaiable nodes.
+
+"minimal_spanning()" performs the kruskals algorythm 

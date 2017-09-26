@@ -1,0 +1,4 @@
+This program implements the alogorythm of red-black tree
+It can perform operations of inserting a node into list and displaying all the nodes
+To get the executable,execute the make file
+It will genearate a executable file by linking main.c,src.c and by includingheader.h.
